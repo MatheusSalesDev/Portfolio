@@ -1,1 +1,1 @@
-alert("VOCÊ MAMA NO PT");
+alert("teste2");
