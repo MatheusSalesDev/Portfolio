@@ -1,1 +1,1 @@
-alert("Hello, World!");
+alert("VOCÊ MAMA NO PT");
